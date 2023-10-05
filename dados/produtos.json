@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "Tênis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "/imagens/kswiss.png",
+        "promocao": "30% OFF"
+    },
+    {
+        "categoria": "Vestuário",
+        "nome": "Camisa Gola Polo",
+        "preco": 120,
+        "desconto": 30,
+        "imagem": "/imagens/camisa-1.webp"
+    },
+    {
+        "categoria": "Mercado",
+        "nome": "Biscoito Recheado Bauducco",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "/imagens/kswiss.png"
+    },
+    {
+        "categoria": "Tênis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "/imagens/kswiss.png"
+    },
+    {
+        "categoria": "Tênis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "/imagens/kswiss.png"
+    }
+]
